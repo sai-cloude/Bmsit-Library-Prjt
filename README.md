@@ -1,5 +1,6 @@
 BMSIT Library Management Portal
 Academic UI Prototype - Frontend Only
+Link- https://sai-cloude.github.io/Bmsit-Library-Prjt/
 This is a frontend-only prototype of a library management portal for BMS Institute of Technology and Management, Yelahanka. This version uses mock JavaScript data and localStorage for demonstration purposes only.
 
 ⚠️ Important Disclaimer
